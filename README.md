@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -7,7 +7,7 @@
 
 <body>
 
-  <h1>Welcome to Our Company</h1>
+  <h1> elcome To Ladson Legacy</h1>
   <h2>Web Site Main Ingredients:</h2>
 
   <p>Pages (HTML)</p>
