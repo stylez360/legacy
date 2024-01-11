@@ -7,7 +7,7 @@
 
 <body>
 
-  <h1> elcome To Ladson Legacy</h1>
+  <h1>Welcome To Ladson Legacy</h1>
   <h2>Web Site Main Ingredients:</h2>
 
   <p>Pages (HTML)</p>
