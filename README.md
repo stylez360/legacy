@@ -1,5 +1,10 @@
 
 <html>
+
+<head></head>
+</head>
+
+<body>
 body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
@@ -7,11 +12,6 @@ body {
     color: #696969;
     padding: 3px;
 }
-<head></head>
-</head>
-
-<body>
-
   <h1>Welcome To Ladson Legacy</h1>
   <h2>Web Site Main Ingredients:</h2>
 
