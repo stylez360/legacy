@@ -5,7 +5,7 @@
 </head>
 
 <body>
-body {
+    {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
     background-color: dimgrey;
