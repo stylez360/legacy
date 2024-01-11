@@ -1,3 +1,5 @@
+
+<html>
 body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
@@ -5,10 +7,7 @@ body {
     color: #696969;
     padding: 3px;
 }
-<html>
-
-<head>
-  
+<head></head>
 </head>
 
 <body>
