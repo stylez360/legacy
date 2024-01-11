@@ -5,13 +5,7 @@
 </head>
 
 <body>
-    {
-    font-family: "Trebuchet MS", Verdana, sans-serif;
-    font-size: 16px;
-    background-color: dimgrey;
-    color: #696969;
-    padding: 3px;
-}
+   
   <h1>Welcome To Ladson Legacy</h1>
   <h2>Web Site Main Ingredients:</h2>
 
